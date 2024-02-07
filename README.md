@@ -22,10 +22,3 @@ This is a basic calculator application built using HTML, CSS, and JavaScript. It
 - CSS: Used for styling the calculator interface.
 - JavaScript: Used for implementing the calculator functionality.
 
-## Credits
-
-- Calculator icon by Freepik from Flaticon
-
-## License
-
-This project is licensed under the MIT License.
